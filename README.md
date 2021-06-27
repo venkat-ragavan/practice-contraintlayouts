@@ -1,7 +1,10 @@
 # Practices - Contraintlayouts 
 
-Portrait: Phone<br/><br/>
+Phone: Portrait<br/><br/>
 <img src="app/src/main/res/drawable/dev_profile_phone.png" width="200" height="350">
 
-Portrait: Tablet<br/><br/>
-<img src="app/src/main/res/drawable/dev_profile_tablet.png" width="300" height="300">
+Phone: Landscape<br/><br/>
+<img src="app/src/main/res/drawable/dev_profile_phone_landscape.png" width="400" height="250">
+
+Tablet: Portrait<br/><br/>
+<img src="app/src/main/res/drawable/dev_profile_tablet.png" width="270" height="330">
